@@ -8,7 +8,7 @@ defaults.icons = 'angeler';
 export const manyMatchesErrorMsg = () =>
   alert({
     type: 'notice',
-    text: 'To many matches found. Please enter a more specific query!',
+    text: 'To many matches found. Please enter a more specific query',
     delay: 3000,
     sticker: false,
     animateSpeed: 'slow',
